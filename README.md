@@ -1,2 +1,1 @@
-# apps
-Apps for Windows and Linux
+# Apps for Windows and Linux
